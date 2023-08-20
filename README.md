@@ -4,15 +4,6 @@
 
 The goal of this project was to create a professional readme generator, using node, and the inquirer npm package, to prompt the user in the terminal, where the user inputs whatever details they want to include in their readme, and then have the file be created and formatted using standard conventions.
 
-## Table of Contents (Optional)
-
-Description
-Installation
-Usage
-License
-Contributing
-Tests
-Questions
 
 ## Installation
 
