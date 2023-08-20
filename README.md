@@ -2,44 +2,27 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The goal of this project was to create a professional readme generator, using node, and the inquirer npm package, to prompt the user in the terminal, where the user inputs whatever details they want to include in their readme, and then have the file be created and formatted using standard conventions.
 
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+Description
+Installation
+Usage
+License
+Contributing
+Tests
+Questions
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+The user needs to have node installed, as well as run the npm i inquirer@8.2.4 function in their terminal as those large modules are hidden in the github repository using git ignore. Those two steps are necessary to properly execute the application in your terminal.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Once all the files are properly installed simply run the JavaScript file using node (e.g node index) and then fill the prompts with your desired information, upon completion your README.md file will be added to your develop folder. You can use this application to easily create a well formatted professional README for any of your github coding projects. This project can also be used as a way for me to review the introductory lessons on using node, and installing npm packages.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+This project is licensed under the MIT license. For more information, refer to the linked license document: License: MIT
