@@ -1,11 +1,11 @@
 
-  # Professional README Generator
+  # My ReadMe Generator
 
   ![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
   
-  Creates README file automatically with user input
+  This automates the process of creating a ReadMe file in a consistent and organized fashion with minimal input from user.
 
   ## Table of Contents
   - [Description](#description)
@@ -18,11 +18,11 @@
 
   ## Installation
 
-  You will need to Have Node on your device then run npm install in your VS Code terminal
+  
 
   ## Usage
 
-  Run the command node index.js in your VS Code terminal then answer the prompts
+  ______ is required to be installed
 
   
     ## License
@@ -32,13 +32,13 @@
 
   ## Contributing
 
-  N/A
+  NA
 
   ## Tests
 
-  N/A
+  NA
 
   ## Questions
 
-  If you have any questions feel free to reach out to me via my Github: [ralstonb9](https://github.com/ralstonb9) or you can e-mail me at ross@gmail.com
+  If you have any questions feel free to reach out to me via my Github: [NA](https://github.com/NA) or you can e-mail me at NA
 
