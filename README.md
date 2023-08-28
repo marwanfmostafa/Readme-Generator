@@ -9,7 +9,7 @@ The goal of this project was to create a professional readme generator utilizing
 Required installations:
 
 1. Node
-2. npm i inquirer@8.2.4
+2. npm inquirer@8.2.4
 
 ## Usage
 
